@@ -1,2 +1,2 @@
 # PythonProjects
-These are my projects bulit while learning Python
+These are my projects built while learning Python
