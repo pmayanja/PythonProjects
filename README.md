@@ -1,2 +1,2 @@
 # PythonProjects
-Python Practice Projects
+These are my projects bulit while learning Python
